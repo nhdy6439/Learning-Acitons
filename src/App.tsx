@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Test></Test>
-        <Button type="primary">antd primary</Button>
+        <Button type="primary">antd primary actions</Button>
       </header>
     </div>
   );
